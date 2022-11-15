@@ -39,6 +39,8 @@ What did I learn?
 
 ## Usage
 
+Walkthrough Video: https://drive.google.com/file/d/1YiU07y1ubd7pA4wDH2_fgNMpVZVZgdAy/view?usp=share_link
+
 ![E-CommerceIO Insomnia Example](images/category.png)
 
 ## Contributing
